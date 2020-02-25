@@ -7,7 +7,8 @@
 * Place toi avec ton terminal dans un dossier qui va bien.
 * `git clone git@github.com:lifeae/THP_S7_J2.git`
 * `cd THP_S7_J2`
-* ouvre les fichiers .html pour voir ce que ça donne !
+* ouvre le fichier [index.html](/index.html) dans ton navigateur préféré
+
 
 # Consignes
 
